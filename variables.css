@@ -1,0 +1,16 @@
+/* CSS Variables */
+:root {
+    --color-primary: black;
+    --color-primary-rgb: 139, 0, 0; /* RGB values for rgba() usage */
+    --color-primary-dark: #6B0000;
+    --color-secondary: #F5F5F5;
+    --color-text: #333333;
+    --color-text-light: #666666;
+    --color-border: #E0E0E0;
+    --color-background: #FFFFFF;
+    --color-background-light: #F9F9F9;
+    --font-primary: 'Montserrat', sans-serif;
+    --font-secondary: 'Playfair Display', serif;
+    --container-width: 1200px;
+    --header-height: 80px;
+}
